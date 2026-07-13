@@ -4,7 +4,7 @@
 Click-to-slash interactive animation: every mouse click makes the Knight swing his nail.
 
 ![Demo](demo.gif)
-<!-- Record a short screen capture of the slash and save it as demo.gif in this repo -->
+
 
 ## About
 
@@ -25,9 +25,9 @@ This is a small interactive Python project where the player clicks the mouse to 
 2. Download or clone this repo
 3. Run the game:
    ```
-   python knight_slash.py
+   knight_slash.py
    ```
-<!-- Change the filename above to match your actual .py file -->
+
 
 ## Built with
 
